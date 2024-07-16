@@ -1,7 +1,10 @@
 
 ### Complete README.md File
 
-- **Project Name:** E-comerce Electronic Store .
+
+- **Project Name:** E-comerce Electronic Store.
+* Repository: https://github.com/maryamiina2284/E-E-comerce-Electronic-Project
+* DemoApp: e-comerce-electronic-project.netlify.app
 - **Project Summary:** 
 ### Brief Description Example
 
@@ -12,9 +15,12 @@ E-comerce Electronic Store:
 - **Online Learning Platform:** A platform developed with React and Node.js for interactive online courses and tutorials.
 
 Adjust the description to accurately reflect the purpose and focus of your specific project. This brief summary helps users quickly understand the main goal or functionality of your project before diving into detailed instructions and usage guidelines.
-.
-- **Table of Contents:** Organize sections for easy navigation.
+
 - **Getting Started:** 
+* create folder in your pc folder and open with vscode 
+* clone the repository : git clone https://github.com/maryamiina2284/E-E-comerce-Electronic-Project.git
+* install dependencies npm install
+* run th project npm start
 
 - **Usage:** 
 
