@@ -1,0 +1,44 @@
+footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  footer .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  footer h5 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  footer p, footer a {
+    font-size: 0.9rem;
+    color: #fff;
+  }
+  
+  footer a:hover {
+    color: #ddd;
+    text-decoration: none;
+  }
+  
+  footer .form-outline {
+    margin-bottom: 1rem;
+  }
+  
+  footer .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  footer .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  footer .bg-secondary {
+    background-color: #343a40 !important;
+  }
+  
