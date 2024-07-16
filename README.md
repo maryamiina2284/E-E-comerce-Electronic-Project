@@ -4,7 +4,7 @@
 
 - **Project Name:** E-comerce Electronic Store.
 * Repository: https://github.com/maryamiina2284/E-E-comerce-Electronic-Project
-* DemoApp: e-comerce-electronic-project.netlify.app
+* DemoApp: https://e-comerce-electronic-project.netlify.app/
 - **Project Summary:** 
 ### Brief Description Example
 
